@@ -1,0 +1,8 @@
+venv/
+venv/**/*.py
+/venv/
+/venv/**/*.py
+/venv/Include/
+/venv/Include/**/*.py
+/venv/Lib/
+/venv/Lib/**/*.py
